@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mcstan/static/css/main.c39012e5.css",
+    "main.js": "/mcstan/static/js/main.c9ed59b0.js",
+    "static/js/787.81dc7098.chunk.js": "/mcstan/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/mcstan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mcstan/index.html",
+    "main.c39012e5.css.map": "/mcstan/static/css/main.c39012e5.css.map",
+    "main.c9ed59b0.js.map": "/mcstan/static/js/main.c9ed59b0.js.map",
+    "787.81dc7098.chunk.js.map": "/mcstan/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39012e5.css",
+    "static/js/main.c9ed59b0.js"
+  ]
+}
